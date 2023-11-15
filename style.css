@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+    border-spacing: 0;
+    background-color: beige;
+}
+th,td {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.abc {
+    border: 0px;
+    background-color: azure;
+    text-align: center;
+}
